@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FHglBX3OToHjjieMLWs2c7vC9uhte7sCeDFfE/0akUZXLxlmB+wmdcsiU3BBpJHjs8W8FU92FkFVzCMQT07HJA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rachel\\source\\repos\\Edabit\\Edabit.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rachel\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

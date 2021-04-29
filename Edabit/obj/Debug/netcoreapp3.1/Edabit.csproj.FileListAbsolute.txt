@@ -1,0 +1,13 @@
+C:\Users\Rachel\source\repos\Edabit\bin\Debug\netcoreapp3.1\Edabit.exe
+C:\Users\Rachel\source\repos\Edabit\bin\Debug\netcoreapp3.1\Edabit.deps.json
+C:\Users\Rachel\source\repos\Edabit\bin\Debug\netcoreapp3.1\Edabit.runtimeconfig.json
+C:\Users\Rachel\source\repos\Edabit\bin\Debug\netcoreapp3.1\Edabit.runtimeconfig.dev.json
+C:\Users\Rachel\source\repos\Edabit\bin\Debug\netcoreapp3.1\Edabit.dll
+C:\Users\Rachel\source\repos\Edabit\bin\Debug\netcoreapp3.1\Edabit.pdb
+C:\Users\Rachel\source\repos\Edabit\obj\Debug\netcoreapp3.1\Edabit.csprojAssemblyReference.cache
+C:\Users\Rachel\source\repos\Edabit\obj\Debug\netcoreapp3.1\Edabit.AssemblyInfoInputs.cache
+C:\Users\Rachel\source\repos\Edabit\obj\Debug\netcoreapp3.1\Edabit.AssemblyInfo.cs
+C:\Users\Rachel\source\repos\Edabit\obj\Debug\netcoreapp3.1\Edabit.csproj.CoreCompileInputs.cache
+C:\Users\Rachel\source\repos\Edabit\obj\Debug\netcoreapp3.1\Edabit.dll
+C:\Users\Rachel\source\repos\Edabit\obj\Debug\netcoreapp3.1\Edabit.pdb
+C:\Users\Rachel\source\repos\Edabit\obj\Debug\netcoreapp3.1\Edabit.genruntimeconfig.cache
